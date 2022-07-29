@@ -2,13 +2,13 @@
 
 - ☕ Hoje eu estou trabahano com JAVA para mobile 
 - 📚 Eu estou estudando JAVA e JS
-- 📧 Contate-me pr e-mail: thiagobdo23@gmail.com
+- 📧 Contate-me por e-mail: thiagobdo23@gmail.com
 - 😄 Pronome: Ele/Dele
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ThiagoEXE">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoexe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoexe&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoexe&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -23,7 +23,7 @@
  <div>
   <a href = "mailto:thiagbd23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://linktr.ee/ThiagoExe"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/thiago-oliveira-15a3aa164" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/thiago-oliveira-15a3aa164" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "https://twitter.com/ThiagoBarbosa_7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a></div>
 
 
