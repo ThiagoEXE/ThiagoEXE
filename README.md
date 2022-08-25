@@ -4,8 +4,11 @@
 - 📚 Eu estou estudando JAVA e JS
 - 📧 Contate-me por e-mail: thiagobdo23@gmail.com
 - 😄 Pronome: Ele/Dele
-
-
+<div align="left">
+  <a href="https://github.com/ThiagoEXE">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoexe&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Thiago-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
