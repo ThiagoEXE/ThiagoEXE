@@ -1,6 +1,6 @@
 ### Olá Bem-vindo(a)! 👋
 
-- ☕ Hoje eu estou trabahano como programador web 
+- ☕ Hoje eu estou trabalhando como programador web 
 - 📚 Eu estou estudando PHP, JS, HTML e Bootstrap
 - 📧 Contate-me por e-mail: thiagobdo23@gmail.com
 - 😄 Pronome: Ele/Dele
