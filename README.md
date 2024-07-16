@@ -1,7 +1,7 @@
 ### Olá Bem-vindo(a)! 👋
 
 - ☕ Hoje eu estou trabalhando como programador web 
-- 📚 Eu estou estudando PHP, JS, HTML, Python e Bootstrap
+- 📚 Eu estou estudando PHP e Python
 - 📧 Contate-me por e-mail: thiagobdo23@gmail.com
 - 😄 Pronome: Ele/Dele
 <div align="left">
