@@ -1,8 +1,8 @@
 ### Olá Bem-vindo(a)! 👋
 
-- ☕ Hoje eu estou trabalhando como programador web 
-- 📚 Eu estou estudando PHP e Python
-- 📧 Contate-me por e-mail: thiagobdo23@gmail.com
+- ☕ Hoje eu estou trabalhando como Analista e Desenvolvedor Full Stack 
+- 📚 Eu estou Python para Data Science com Pandas
+- 📧 Contate-me por e-mail: thiago.developer96@gmail.com
 - 😄 Pronome: Ele/Dele
 <div align="left">
   <a href="https://github.com/ThiagoEXE">
