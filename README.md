@@ -1,7 +1,7 @@
 ### Olá Bem-vindo(a)! 👋
 
 - ☕ Hoje eu estou trabalhando como Analista e Desenvolvedor Full Stack 
-- 📚 Eu estou Python para Data Science com Pandas
+- 📚 Eu estou estudando Data Science com Python e Pandas
 - 📧 Contate-me por e-mail: thiago.developer96@gmail.com
 - 😄 Pronome: Ele/Dele
 <div align="left">
