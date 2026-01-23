@@ -1,5 +1,6 @@
 ### Olá Bem-vindo(a)! 👋
 
+- 🏆​ Fui campeâo Global no hackathon da NASA em 2019
 - ☕ Hoje eu estou trabalhando como Analista e Desenvolvedor Full Stack 
 - 📚 Eu estou estudando Data Science com Python e Pandas
 - 📧 Contate-me por e-mail: thiago.developer96@gmail.com
